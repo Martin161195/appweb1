@@ -19,8 +19,8 @@ public class ClienteController {
 	public Cliente obtenerCliente() {
 		
 		Cliente cliente = new Cliente();
-		cliente.setNombre("Oscar");
-		cliente.setApellido("Pando");
+		cliente.setNombre("Juan");
+		cliente.setApellido("Perez");
 		
 		
 		return cliente;
